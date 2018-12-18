@@ -1,6 +1,6 @@
 # Flaskr - 介绍Flask，测试驱动开发（Test-Driven Development，TDD）和JavaScript
 
-## [flask-tdd](https://github.com/mjhea0/flaskr-tdd)中文版
+## [flaskr-tdd](https://github.com/mjhea0/flaskr-tdd)中文版
 
 1. 本仓库的目的只是对于原项目的学习与分享，并不是单纯的抄袭。
 2. 能力有限，请多指教。
@@ -17,7 +17,7 @@
 
 ## 你在构建什么？
 
-![final app](https://github.com/mjhea0/flaskr-tdd/blob/master/flaskr-app.png)
+![final app](flaskr-app.png)
 
 ## 目录
 
